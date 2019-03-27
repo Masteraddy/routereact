@@ -1,13 +1,15 @@
 {
-  "main.css": "/routereact/static/css/main.411eda3f.chunk.css",
-  "main.js": "/routereact/static/js/main.12604307.chunk.js",
-  "main.js.map": "/routereact/static/js/main.12604307.chunk.js.map",
+  "main.css": "/routereact/static/css/main.e6a8dd0a.chunk.css",
+  "main.js": "/routereact/static/js/main.55092e61.chunk.js",
+  "main.js.map": "/routereact/static/js/main.55092e61.chunk.js.map",
   "runtime~main.js": "/routereact/static/js/runtime~main.56317334.js",
   "runtime~main.js.map": "/routereact/static/js/runtime~main.56317334.js.map",
-  "static/js/2.f1553838.chunk.js": "/routereact/static/js/2.f1553838.chunk.js",
-  "static/js/2.f1553838.chunk.js.map": "/routereact/static/js/2.f1553838.chunk.js.map",
+  "static/css/2.3a004e55.chunk.css": "/routereact/static/css/2.3a004e55.chunk.css",
+  "static/js/2.14ef5394.chunk.js": "/routereact/static/js/2.14ef5394.chunk.js",
+  "static/js/2.14ef5394.chunk.js.map": "/routereact/static/js/2.14ef5394.chunk.js.map",
   "index.html": "/routereact/index.html",
-  "precache-manifest.fcfb3aae27dc3a9476c293f00bffb6ee.js": "/routereact/precache-manifest.fcfb3aae27dc3a9476c293f00bffb6ee.js",
+  "precache-manifest.8c806fede5083adaf8a873339fa33ce3.js": "/routereact/precache-manifest.8c806fede5083adaf8a873339fa33ce3.js",
   "service-worker.js": "/routereact/service-worker.js",
-  "static/css/main.411eda3f.chunk.css.map": "/routereact/static/css/main.411eda3f.chunk.css.map"
+  "static/css/2.3a004e55.chunk.css.map": "/routereact/static/css/2.3a004e55.chunk.css.map",
+  "static/css/main.e6a8dd0a.chunk.css.map": "/routereact/static/css/main.e6a8dd0a.chunk.css.map"
 }
